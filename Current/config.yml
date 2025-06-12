@@ -4,7 +4,6 @@
 plex:                                # Can be individually specified per library as well; REQUIRED for the script to run
   url: http://192.168.99.35:32400
   token: papN_Wzd2jiapBycaUuX
-  token: Enter Plex Token
   timeout: 60
   db_cache: 40
   clean_bundles: false
